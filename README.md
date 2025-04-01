@@ -22,10 +22,6 @@ This project demonstrates a data analysis workflow using pseudo-data from a Micr
 - `processed_data/` - Cleaned and filtered data in CSV format  
 - `powerbi_dashboards/` - Power BI files containing reports and visuals  
 
-## Insights & Findings
-- [Summarize key insights from your analysis]  
-- [Mention any trends, patterns, or anomalies you discovered]  
-
 ## How to Use
 1. Clone this repository:  
    ```sh
