@@ -1,4 +1,4 @@
-# Data Analysis Project - SQL Database
+# Sales Analysis Project - SQL Database
 
 ## Overview
 This project demonstrates a data analysis workflow using pseudo-data from a Microsoft SQL database. The goal was to fulfill a business request by planning, cleaning, filtering, and visualizing data to derive actionable insights.
