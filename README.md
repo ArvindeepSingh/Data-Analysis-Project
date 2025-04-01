@@ -17,7 +17,6 @@ This project demonstrates a data analysis workflow using pseudo-data from a Micr
 - **Power BI**: Visualizing insights through dashboards  
 
 ## Files in Repository
-- `raw_data/` - Original dataset (pseudo-data from Microsoft SQL database)  
 - `sql_queries/` - SQL scripts used for cleaning and filtering  
 - `processed_data/` - Cleaned and filtered data in CSV format  
 - `powerbi_dashboards/` - Power BI files containing reports and visuals  
