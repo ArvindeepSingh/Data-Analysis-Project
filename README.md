@@ -25,3 +25,6 @@ This project demonstrates a data analysis workflow using pseudo-data from a Micr
 1. Clone this repository:  
    ```sh
    git clone https://github.com/your-username/your-repository.git
+
+## For a detailed walkthrough of the project, visit:
+https://arvindeepsingh.wordpress.com/
